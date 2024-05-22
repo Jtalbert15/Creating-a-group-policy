@@ -71,4 +71,5 @@ Enter the name of the user and click check names. Then click ok
 
 Now when that user logs in he will not have a recycle bin
 
+<img width="633" alt="Screenshot 2024-05-21 at 8 26 57 PM" src="https://github.com/Jtalbert15/Creating-a-group-policy/assets/66844406/39a08ed9-58d0-4845-96d2-007625a53d01">
 
